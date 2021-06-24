@@ -1,0 +1,3 @@
+seperate reading and writing to threads (!)
+error handling
+keep on dividing code to logic modules
